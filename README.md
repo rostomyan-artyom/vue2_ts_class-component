@@ -1,4 +1,6 @@
-# todo-list
+# Todo-list vue2 + ts + class-component
+
+<img style="object-fit: contain;" src="./src/assets/gifs/todo.gif" alt="gif" width="550" height="auto" />
 
 ## Project setup
 ```
